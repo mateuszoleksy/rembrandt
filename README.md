@@ -1,6 +1,6 @@
 # rembrandt
 
-Modern tool for generating ASCII art — a terminal UI (built with [Textual](https://textual.textualize.io/)) that turns any image into a colored ASCII-art PNG, with a live preview right in your terminal. Also works as a plain command-line tool for scripts and batch jobs.
+Modern tool for generating ASCII art, a terminal UI (built with [Textual](https://textual.textualize.io/)) that turns any image into a colored ASCII-art PNG, with a live preview right in your terminal. Also works as a plain command-line tool for scripts and batch jobs.
 
 # Demo
 <img width="1710" height="918" alt="image" src="https://github.com/user-attachments/assets/3f78a51e-5425-46cf-aa62-5ebf4e9d0f2c" />
@@ -105,4 +105,4 @@ tests/         # pytest suite for the renderer and CLI
 
 ## License
 
-Apache 2.0 — see [LICENSE](LICENSE).
+Apache 2.0, see [LICENSE](LICENSE).
