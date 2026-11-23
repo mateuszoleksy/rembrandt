@@ -1,4 +1,12 @@
-# rembrandt
+```
+ ██████╗ ███████╗███╗   ███╗██████╗ ██████╗  █████╗ ███╗   ██╗██████╗ ████████╗
+ ██╔══██╗██╔════╝████╗ ████║██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗╚══██╔══╝
+ ██████╔╝█████╗  ██╔████╔██║██████╔╝██████╔╝███████║██╔██╗ ██║██║  ██║   ██║
+ ██╔══██╗██╔══╝  ██║╚██╔╝██║██╔══██╗██╔══██╗██╔══██║██║╚██╗██║██║  ██║   ██║
+ ██║  ██║███████╗██║ ╚═╝ ██║██████╔╝██║  ██║██║  ██║██║ ╚████║██████╔╝   ██║
+ ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝    ╚═╝
+               [ CHIAROSCURO ASCII ENGINE // TERMINAL EDITION by Matteo ]
+```
 
 Modern tool for generating ASCII art, a terminal UI (built with [Textual](https://textual.textualize.io/)) that turns any image into a colored ASCII-art PNG, with a live preview right in your terminal. Also works as a plain command-line tool for scripts and batch jobs.
 
